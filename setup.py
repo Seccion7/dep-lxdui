@@ -39,7 +39,7 @@ setup(
        'psutil==5.6.6',
        'pylxd==2.2.7',
        'terminado==0.8.1',
-       'tornado==5.0.2',
+       'tornado==6.3.2',
        'tornado-xstatic',
        'XStatic==1.0.1',
        'XStatic-term.js==0.0.7.0'
